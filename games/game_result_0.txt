@@ -1,0 +1,9 @@
+Pawn. 4, 3
+Knight. 2, 5
+Pawn. 4, 2
+Pawn. 2, 4
+Knight. 5, 5
+Pawn. 3, 3
+Knight. 5, 2
+Bishop. 4, 1
+Black won the game!

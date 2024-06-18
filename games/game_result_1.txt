@@ -1,0 +1,14 @@
+Pawn. 4, 3
+Pawn. 3, 3
+Pawn. 5, 4
+Pawn. 3, 2
+Queen. 5, 5
+Knight. 2, 2
+Bishop. 4, 2
+Pawn. 3, 7
+Bishop. 3, 3
+Pawn. 4, 7
+Bishop. 2, 4
+Pawn. 5, 7
+Queen. 1, 5
+White won the game!
